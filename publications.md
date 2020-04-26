@@ -12,7 +12,7 @@ A place to include any other types of information that you'd like to include abo
 
 ### 2019
 
-<div style="float: left;"><img src="https://dblp.org/img/n.png" width="10" height="10"/></div> Jorge, Vitor; Granada, Roger; Maidana, Renan; Jurak, Darlan; Heck, Guilherme; Negreiros, Álvaro; Santos, David H.; Gonçalves, Luiz; Amory, Alexandre M.. A Survey on Unmanned Surface Vehicles for Disaster Robotics: Main Challenges and Directions. *SENSORS*, v.19, p.702, 2019.
+<img src="https://dblp.org/img/n.png" width="50" height="50"/> Jorge, Vitor; Granada, Roger; Maidana, Renan; Jurak, Darlan; Heck, Guilherme; Negreiros, Álvaro; Santos, David H.; Gonçalves, Luiz; Amory, Alexandre M.. A Survey on Unmanned Surface Vehicles for Disaster Robotics: Main Challenges and Directions. *SENSORS*, v.19, p.702, 2019.
 
 
 
