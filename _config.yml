@@ -9,7 +9,7 @@ name: Roger Granada
 description: PhD in Computer Science
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/1257273234/Roger_04_400x400.jpg
+avatar: https://github.com/rogergranada/rogergranada.github.io/raw/master/images/roger.png
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: rogergranada
   instagram: rogergranada
-  linkedin: in/rogergranada
+  linkedin: rogergranada
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: rogergranada
