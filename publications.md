@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Below, a list of my publications with colleagues in the last 5 years, where <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/jo.svg" width="15" height="15"/> is a journal paper, <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> a conference paper, and <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/ot.svg" width="15" height="15"/> an ArXiv paper.
+Below, a list of my publications with colleagues in the last 5 years, where <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/jo.svg" width="15" height="15"/> is a journal paper, <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> a conference paper, and <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/ot.svg" width="15" height="15"/> an ArXiv paper. For a complete list of papers, check out my [Lattes](http://lattes.cnpq.br/8302681523696256) page.
 
 ---
 ### 2020
