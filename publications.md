@@ -6,19 +6,18 @@ permalink: /publications/
 
 Below, a list of my publications with colleagues in the last 5 years, where <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/jo.svg" width="15" height="15"/> is a journal paper, <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> a conference paper, and <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/ot.svg" width="15" height="15"/> an ArXiv paper.
 
+---
 ### 2020
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Granada, Roger; Pereira, Ramon F.; Monteiro, Juarez; Amado, Leonardo; Barros, Rodrigo C.; Ruiz, Duncan; Meneguzzi, Felipe R. [HAPRec: Hybrid Activity and Plan Recognizer](http://www.meneguzzi.eu/felipe/pubs/pair-haprec-2020.pdf). In: Proceedings of the 34th AAAI Conference on Artificial Intelligence. Plan, Activity and Intent Recognition Workshop, 2020.
 
----
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Amado, Leonardo; Aires, João P.S.; Pereira, Ramon F.; Magnaguagno, Maurício; Granada, Roger; Licks, Gabriel P.; Marcon, Mateus; Meneguzzi, Felipe R.. [LatRec+: Learning-based Goal Recognition in Latent Space](https://www.youtube.com/watch?v=lSgvye2erHk). In: Proceedings of the 34th AAAI Conference on Artificial Intelligence. Plan, Activity and Intent Recognition Workshop, 2020.
 
----
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Monteiro, Juarez; Gavenski, Nathan; Granada, Roger; Meneguzzi, Felipe R.; Barros, Rodrigo C.. Augmented Behavioral Cloning from Observation. In: Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN), 2020.
 
----
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Maidana, Renan; Granada, Roger; Jurak, Darlan; Magnaguagno, Maurício; Meneguzzi, Felipe R.; Amory, Alexandre M.. Energy-Aware Path Planning for Autonomous Mobile Robot Navigation. In: Proceedings of the 33rd International Florida Artificial Intelligence Research Society Conference (FLAIRS-33), 2020.
 
+---
 ### 2019
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/jo.svg" width="15" height="15"/> Jorge, Vitor; Granada, Roger; Maidana, Renan; Jurak, Darlan; Heck, Guilherme; Negreiros, Álvaro; Santos, David H.; Gonçalves, Luiz; Amory, Alexandre M.. A [Survey on Unmanned Surface Vehicles for Disaster Robotics: Main Challenges and Directions](http://https://www.mdpi.com/1424-8220/19/3/702). *SENSORS*, v.19, p.702, 2019.
@@ -36,7 +35,7 @@ Below, a list of my publications with colleagues in the last 5 years, where <img
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/ot.svg" width="15" height="15"/> Aires, João P.S.; Granada, Roger; Monteiro, Juarez; Barros, Rodrigo C.; Meneguzzi, Felipe R.. [Classifying Norm Conflicts using Learned Semantic Representations](https://arxiv.org/abs/1906.02121) 2019 (ArXiv Preprint).
 
-
+---
 ### 2018
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/jo.svg" width="15" height="15"/> Granada, Roger; Aires, João P.S.; Monteiro, Juarez; Meneguzzi, Felipe R.; Barros, Rodrigo C.. [Improving Action Recognition Using Temporal Regions](http://https://periodicos.ufmg.br/index.php/jidm/issue/view/655). *Journal of Information and Data Management - JIDM*, v.9, p.108-123, 2018.
@@ -59,6 +58,7 @@ Below, a list of my publications with colleagues in the last 5 years, where <img
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/ot.svg" width="15" height="15"/> Granada, Roger; Vieira, Renata; Trojahn, Cassia; Aussenac-Gilles, Nathalie. [Evaluating the Complementarity of Taxonomic Relation Extraction Methods Across Different Languages](https://arxiv.org/abs/1811.03245), Arxiv Preprint, 2018.
 
+---
 ### 2017
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Granada, Roger; Pereira, Ramon F.; Monteiro, Juarez; Barros, Rodrigo C.; Ruiz, Duncan; Meneguzzi, Felipe R.. [Hybrid Activity and Plan Recognition for Video Streams](https://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15117). Proceedings of the 31st AAAI Conference on Artificial Intelligence - Plan, Activity and Intent Recognition Workshop (AAAI-PAIR), p.819-825, 2017. 
@@ -77,10 +77,12 @@ Below, a list of my publications with colleagues in the last 5 years, where <img
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Aires, João P.S.; Monteiro, Juarez; Granada, Roger; Barros, Rodrigo C.; Meneguzzi, Felipe R.. [Temporal Regions for Activity Recognition](http://doi.org/10.1007/978-3-319-68600-4). In Proceedings of the 26th International Conference on Artificial Neural Networks (ICANN 2017), p.424-424, 2017.
 
+---
 ### 2016
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Vieira, Renata; Amaral, Daniela O.F.; Collovini, Sandra; Fonseca, Evandro B.; Granada, Roger; Hilgert, Lucas W.; Lopes, Lucelene; Schmidt, Daniela; Severo, Bernardo; Souza, Marlo; Freitas, Larissa A.; Trojahn, Cassia. [Language resources for information extraction and semantic computing - NLP at PUCRS](http://propor2016.di.fc.ul.pt/?page_id=383). In: Proceedings of the Workshop on Corpora and Tools for Processing Corpora, 2016.
 
+---
 ### 2015
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Cheatham, Michelle; Dragisic, Zlatan; Euzenat, Jerome; Faria, Daniel; Ferrara, Alfio; Flouris, Giorgos; Fundulaki, Irini; Granada, Roger; Ivanova, Valentina; Jimenez-Ruiz, Ernesto; Lambrix, Patrick; Montanelli, Stefano; Pesquita, Catia; Saveta, Tzanina; Shvaiko, Pavel; Solimando, Alessandro; Trojahn, Cassia; Zamazal, Ondrej. [Results of the Ontology Alignment Evaluation Initiative 2015](http://ceur-ws.org/Vol-1545/oaei15_paper0.pdf). In Proceedings of the 10th International Workshop on Ontology Matching collocated with the 14th International Semantic Web Conference (ISWC 2015), p.60-115, 2015.
