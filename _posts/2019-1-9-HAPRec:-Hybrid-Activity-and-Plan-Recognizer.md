@@ -11,7 +11,13 @@ The complete paper can be seen [here](http://www.meneguzzi.eu/felipe/pubs/pair-h
 
 ```
 @inproceedings{MonteiroEtAl2018ciarp,
-  author    = {Granada, Roger and Fraga, Ramon and Monteiro, Juarez and Amado, Leonardo and Barros, Rodrigo C and Ruiz, Duncan and Meneguzzi, Felipe},
+  author    = {Granada, Roger and 
+               Fraga, Ramon and 
+               Monteiro, Juarez and 
+               Amado, Leonardo and 
+               Barros, Rodrigo C and 
+               Ruiz, Duncan and 
+               Meneguzzi, Felipe},
   title     = {HAPRec: Hybrid Activity and Plan Recognizer},
   booktitle = {The AAAI 2020 Workshop on Plan, Activity, and Intent Recognition},
   series    = {AAAI-PAIR 2020},
