@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HAPRec: Hybrid Activity and Plan Recognizer
+title: "HAPRec: Hybrid Activity and Plan Recognizer"
 ---
 
 Computer-based assistants have recently attracted much interest due to its applicability to ambient assisted living. Such assistants have to detect and recognize the high-level activities and goals performed by the assisted human beings. In this work, we demonstrate activity recognition in an indoor environment in order to identify the goal towards which the subject of the video is pursuing. Our hybrid approach (HAPRec) combines an action recognition module and a goal recognition algorithm to identify the ultimate goal of the subject in the video. The demonstration can be seen at: 
