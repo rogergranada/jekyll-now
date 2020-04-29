@@ -9,7 +9,7 @@ Below, a list of my publications with colleagues in the last 5 years, where <img
 ---
 ### 2020
 
-<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Granada, Roger; Pereira, Ramon F.; Monteiro, Juarez; Amado, Leonardo; Barros, Rodrigo C.; Ruiz, Duncan; Meneguzzi, Felipe R. [HAPRec: Hybrid Activity and Plan Recognizer](http://www.meneguzzi.eu/felipe/pubs/pair-haprec-2020.pdf). In: Proceedings of the 34th AAAI Conference on Artificial Intelligence. Plan, Activity and Intent Recognition Workshop, 2020.
+<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Granada, Roger; Pereira, Ramon F.; Monteiro, Juarez; Amado, Leonardo; Barros, Rodrigo C.; Ruiz, Duncan; Meneguzzi, Felipe R. [HAPRec: Hybrid Activity and Plan Recognizer](https://arxiv.org/abs/2004.13482). In: The 34th AAAI Conference on Artificial Intelligence. Plan, Activity and Intent Recognition Workshop, 2020.
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Amado, Leonardo; Aires, João P.S.; Pereira, Ramon F.; Magnaguagno, Maurício; Granada, Roger; Licks, Gabriel P.; Marcon, Mateus; Meneguzzi, Felipe R.. [LatRec+: Learning-based Goal Recognition in Latent Space](https://www.youtube.com/watch?v=lSgvye2erHk). In: Proceedings of the 34th AAAI Conference on Artificial Intelligence. Plan, Activity and Intent Recognition Workshop, 2020.
 
