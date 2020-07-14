@@ -15,7 +15,7 @@ Below, a list of my publications with colleagues in the last 5 years, where <img
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Monteiro, Juarez; Gavenski, Nathan; Granada, Roger; Meneguzzi, Felipe R.; Barros, Rodrigo C.. [Augmented Behavioral Cloning from Observation](https://arxiv.org/abs/2004.13529). In: Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN), 2020.
 
-<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Maidana, Renan; Granada, Roger; Jurak, Darlan; Magnaguagno, Maurício; Meneguzzi, Felipe R.; Amory, Alexandre M.. Energy-Aware Path Planning for Autonomous Mobile Robot Navigation. In: Proceedings of the 33rd International Florida Artificial Intelligence Research Society Conference (FLAIRS-33), 2020.
+<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Maidana, Renan; Granada, Roger; Jurak, Darlan; Magnaguagno, Maurício; Meneguzzi, Felipe R.; Amory, Alexandre M.. [Energy-Aware Path Planning for Autonomous Mobile Robot Navigation](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18463). In: Proceedings of the 33rd International Florida Artificial Intelligence Research Society Conference (FLAIRS-33), 2020.
 
 ---
 ### 2019
