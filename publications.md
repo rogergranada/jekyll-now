@@ -9,7 +9,9 @@ Below, a list of my publications with colleagues in the last 5 years, where <img
 ---
 ### 2020
 
-<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Gavenski, Nathan; Monteiro, Juarez; Granada, Roger; Meneguzzi, Felipe R.; Barros, Rodrigo C.. [Imitating Unknown Policies via Exploration](). In: Proceedings of the 31st British Machine Vision Conference (BMVC), 2020.
+<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Granada, Roger; Monteiro, Juarez; Gavenski, Nathan; Meneguzzi, Felipe R.. [Object-Based Goal Recognition using Real World Data](). In: Proceedings of the 19th Mexican International Conference on Artificial Intelligence (MICAI), 2020.
+
+<img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Gavenski, Nathan; Monteiro, Juarez; Granada, Roger; Meneguzzi, Felipe R.; Barros, Rodrigo C.. [Imitating Unknown Policies via Exploration](https://arxiv.org/abs/2008.05660). In: Proceedings of the 31st British Machine Vision Conference (BMVC), 2020.
 
 <img src="https://raw.githubusercontent.com/rogergranada/rogergranada.github.io/master/images/cf.svg" width="15" height="15"/> Granada, Roger; Pereira, Ramon F.; Monteiro, Juarez; Amado, Leonardo; Barros, Rodrigo C.; Ruiz, Duncan; Meneguzzi, Felipe R. [HAPRec: Hybrid Activity and Plan Recognizer](https://arxiv.org/abs/2004.13482). In: The 34th AAAI Conference on Artificial Intelligence. Plan, Activity and Intent Recognition Workshop, 2020.
 
